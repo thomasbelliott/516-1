@@ -21,29 +21,41 @@
 - W15: Final Project Presentations (Final project worth 30%).
 - Finals week: Written final exam (worth 20%).
 
-**Note about Small Projects:** For on-time project submissions,
-grades will be assigned within 24 hours of submission deadline and formative feedback will be
-provided within 7 days. Late submissions are strongly discouraged. If you must submit a project late,
-there will be no grade penalty, but grading will be delayed due to logistic constraints.
-
 ## Assignment Sheets
+
+### General Notes
+
+#### Submission deadlines
+
+Each small project is due by the end of day on Wednesday following the week when the project is assigned.
+Grades will be given by the end of day on Friday of the week when the project is due.
+Formative feedback will be provided by the end of day on Wednesday of the following week.
+To keep you on track with the class, late submissions are strongly discouraged. If you must submit a small project late,
+you must tell me in advance.
+
+##### Submission procedure
+
+I will access your GitHub
+repository after the deadline to retrieve your project file. For each small project, create a new file
+in your GitHub repository named **projectx.html**, where **x** is the letter designation of the project (**a**-**e**).
+Your file name should not contain quotes, spaces,
+or any other symbols. Please also note that file names are case sensitive,
+so "PROJECTA.HTML" and "projecta.html" are two different files. After you
+complete your assignment, do not forget to "commit master" and "push
+origin". Make sure that your program carefully follows the input/output protocol described in the assignment directios.
 
 ### Small Project A: Number Guessing Game
 
-#### Learning outcome:
-
-After completing this assignment, you will have learned how to
+**Learning outcome:** After completing this assignment, you will have learned how to
 conceptualize and implement in code a simple algorithm. Algorithms are a
 foundation of computer science and computational linguistics. The algorithm
 used in this small project is widely used in applied
 linguistics. For example, it is one of the primary alrogithms used in
 adaptive computer-assisted language testing.
 
-#### Programming concepts:
+**Programming concepts:** while-loop, binding, string, number, string comparison, condition.
 
-While-loop, binding, string, number, string comparison, condition.
-
-#### Task:
+#### Task
 
 Create a web page with an embedded JavaScript program that plays the
 "number guessing game" with the user as follows:
@@ -58,7 +70,7 @@ number correctly.
 You need to come up with and implement the most efficient strategy for your
 program.
 
-#### Sample game:
+#### Sample game
 
 - Your program (prompt box): Is your number 23?
 - User (enters into the prompt box): <
@@ -68,17 +80,7 @@ program.
 - User (enters into the prompt box): yes
 - Your program (alert box): I won!
 
-#### Submission:
-
-You do not need to submit this assignment. I will access your GitHub
-repository to check for the completion of the assignment. Create a new file
-in your GitHub repository called "projecta.html" (without quotes, spaces,
-or any other symbols; please also note that file names are case sensitive,
-so "PROJECTA.HTML" and "projecta.html" are two different files). After you
-complete your assignment, do not forget to "commit master" and "push
-origin". Make sure that your program uses "alert" and "prompt" functions.
-
-#### Grading (5 points total):
+#### Grading (5 points total)
 
 - Your program is syntactically correct: 1 point.
 - Your program is able to guess numbers: 1 point.
@@ -86,18 +88,14 @@ origin". Make sure that your program uses "alert" and "prompt" functions.
 
 ### Small Project B: Caesar Cipher
 
-#### Learning outcome:
-
-After completing this assignment, you will have learned how to process
+**Learning outcome:** After completing this assignment, you will have learned how to process
 strings of text on a character-by-character level, how to extract
 characters from strings, how to concatenate strings, and how to convert
 characters to their ASCII codes and back.
 
-#### Programming concepts:
+**Programming concepts:** for-loop, string, character, ASCII code, modular arithmetic.
 
-For-loop, string, character, ASCII code, modular arithmetic.
-
-#### Task:
+#### Task
 
 Create a web page with an embedded JavaScript program that implements
 Caesar cipher with a user-specified shift for the upper-case and lower-case
@@ -116,7 +114,7 @@ would be represented as 1.
 In the encryption process, only letters A-Z and a-z are encoded; other
 characters must be left untouched.
 
-#### Sample input/output:
+#### Sample input/output
 
 - Your program: Enter shift
 - User: -5
@@ -128,17 +126,7 @@ characters must be left untouched.
 prescribed, but the sequence of prompt boxes must follow the task
 description.
 
-#### Submission:
-
-You do not need to submit this assignment. I will access your GitHub
-repository to check for the completion of the assignment. Create a new file
-in your GitHub repository called "projectb.html" (without quotes, spaces,
-or any other symbols; please also note that file names are case sensitive,
-so "PROJECTB.HTML" and "projectb.html" are two different files). After you
-complete your assignment, do not forget to "commit master" and "push
-origin". Make sure that your program uses "alert" and "prompt" functions.
-
-#### Grading (5 points total):
+#### Grading (5 points total)
 
 - Your is syntactically correct: 1 point
 - Your program correctly encodes strings that I supply: 4 points

@@ -33,7 +33,7 @@ Formative feedback will be provided by the end of day on Wednesday of the follow
 To keep you on track with the class, late submissions are strongly discouraged. If you must submit a small project late,
 you must tell me in advance.
 
-##### Submission procedure
+#### Submission procedure
 
 I will access your GitHub
 repository after the deadline to retrieve your project file. For each small project, create a new file

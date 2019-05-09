@@ -80,7 +80,7 @@ origin". Make sure that your program uses "alert" and "prompt" functions.
 
 #### Grading (5 points total):
 
-- Your is syntactically correct: 1 point.
+- Your program is syntactically correct: 1 point.
 - Your program is able to guess numbers: 1 point.
 - Your program guesses numbers in the most efficient way: 3 points.
 

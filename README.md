@@ -21,6 +21,8 @@
 - W15: Final Project Presentations (Final project worth 30%).
 - Finals week: Written final exam (worth 20%).
 
+(For W1 & W2, read the Introduction from the textbook.)
+
 ## Assignment Sheets
 
 ### General Notes

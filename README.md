@@ -1,44 +1,49 @@
 # ENGL 516 - Methods of Formal Linguistic Analysis
 
+**Textbook (required):** [Eloquent Javascript, 3rd edition](https://eloquentjavascript.net/) by Marijn Haverbeke. There is a free online version and a [paperback](https://www.amazon.com/Eloquent-JavaScript-3rd-Introduction-Programming/dp/1593279507/) for $25.
+
+## Schedule:
+
 - W1: Foundations of information theory. Numeral systems.
 - W2: Representing logic, numbers, text, colors, and sounds in the computer.
 - W3: Chapter 1: Values, types, and operators. Exercises.
 - W4: Chapter 2: Program structure.
-- W5: Small Project A: Dichotomic Search (5%).
+- W5: Small Project A: Number Guessing Game (5%).
 - W6: Chapter 3: Functions.
 - W7: Small Project B: Caesar Cipher (5%).
 - W8: Chapter 4: Data structures: objects and arrays.
 - W9: Small Project C: Learner Modeling (5%).
 - W10: Chapter 9: Regular expressions.
 - W11: Small Project D: Haigy Paigy (5%).
-- W12: Small Project E: Corpus Linguistics (5%).
+- W12: Small Project E: Corpus Processing (5%).
 - W13: Oral exam - 25% - based strictly on Small Projects A-E.
 - W14: Chapter 13: JavaScript and the Browser.
 - W15: Final Project Presentations (Final project worth 30%).
-- W16: Written final exam (worth 20%).
+- Finals week: Written final exam (worth 20%).
 
-**Late submissions of Small Projects:** There will be no grade penalty, but grading will be
-delayed due to logistic constraints. For on-time project submissions,
-grades will be assigned within 24 hours and formative feedback will be
-provided within 7 days.
+**Note about Small Projects:** For on-time project submissions,
+grades will be assigned within 24 hours of submission deadline and formative feedback will be
+provided within 7 days. Late submissions are strongly discouraged. If you must submit a project late,
+there will be no grade penalty, but grading will be delayed due to logistic constraints.
 
+## Assignment Sheets
 
-## Small Project A: Number Guessing Game
+### Small Project A: Number Guessing Game
 
-### Learning outcome:
+#### Learning outcome:
 
 After completing this assignment, you will have learned how to
 conceptualize and implement in code a simple algorithm. Algorithms are a
 foundation of computer science and computational linguistics. The algorithm
-used in this small project has diverse applicability in applied
+used in this small project is widely used in applied
 linguistics. For example, it is one of the primary alrogithms used in
 adaptive computer-assisted language testing.
 
-### Programming concepts:
+#### Programming concepts:
 
 While-loop, binding, string, number, string comparison, condition.
 
-### Task:
+#### Task:
 
 Create a web page with an embedded JavaScript program that plays the
 "number guessing game" with the user as follows:
@@ -53,7 +58,7 @@ number correctly.
 You need to come up with and implement the most efficient strategy for your
 program.
 
-### Sample game:
+#### Sample game:
 
 - Your program (prompt box): Is your number 23?
 - User (enters into the prompt box): <
@@ -63,7 +68,7 @@ program.
 - User (enters into the prompt box): yes
 - Your program (alert box): I won!
 
-### Submission:
+#### Submission:
 
 You do not need to submit this assignment. I will access your GitHub
 repository to check for the completion of the assignment. Create a new file
@@ -73,26 +78,26 @@ so "PROJECTA.HTML" and "projecta.html" are two different files). After you
 complete your assignment, do not forget to "commit master" and "push
 origin". Make sure that your program uses "alert" and "prompt" functions.
 
-### Grading (5 points total):
+#### Grading (5 points total):
 
 - Your is syntactically correct: 1 point.
 - Your program is able to guess numbers: 1 point.
 - Your program guesses numbers in the most efficient way: 3 points.
 
-## Small Project B: Caesar Cipher
+### Small Project B: Caesar Cipher
 
-### Learning outcome:
+#### Learning outcome:
 
 After completing this assignment, you will have learned how to process
 strings of text on a character-by-character level, how to extract
 characters from strings, how to concatenate strings, and how to convert
 characters to their ASCII codes and back.
 
-### Programming concepts:
+#### Programming concepts:
 
 For-loop, string, character, ASCII code, modular arithmetic.
 
-### Task:
+#### Task:
 
 Create a web page with an embedded JavaScript program that implements
 Caesar cipher with a user-specified shift for the upper-case and lower-case
@@ -111,7 +116,7 @@ would be represented as 1.
 In the encryption process, only letters A-Z and a-z are encoded; other
 characters must be left untouched.
 
-### Sample input/output:
+#### Sample input/output:
 
 - Your program: Enter shift
 - User: -5
@@ -123,7 +128,7 @@ characters must be left untouched.
 prescribed, but the sequence of prompt boxes must follow the task
 description.
 
-### Submission:
+#### Submission:
 
 You do not need to submit this assignment. I will access your GitHub
 repository to check for the completion of the assignment. Create a new file
@@ -133,7 +138,7 @@ so "PROJECTB.HTML" and "projectb.html" are two different files). After you
 complete your assignment, do not forget to "commit master" and "push
 origin". Make sure that your program uses "alert" and "prompt" functions.
 
-### Grading (5 points total):
+#### Grading (5 points total):
 
 - Your is syntactically correct: 1 point
 - Your program correctly encodes strings that I supply: 4 points

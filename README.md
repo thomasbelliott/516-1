@@ -313,3 +313,23 @@ Working on the final project might require you to read book chapters beyond the 
 **Adaptive vocabulary size test.** ALT students developed a program that delivers an adaptive computer-assisted
 test of vocabulary size. They used the COCA list of top 5000 words, a list of pseudo-words, and a binary search
 algorithm (similar to the one implemented in Small Project A).
+
+## Study Guides
+
+### Oral Exam
+
+For the oral exam, I will make an individual one-hour appointment with each student.
+We will not meet as a class during the week of oral exam.
+The goal of the oral exam is to ascertain your ownership of the code you submitted for the five small projects.
+
+During the exam, I will ask you questions about the code that you have submitted. If you wrote the code yourself,
+you will find it easy to answer my questions. I will also ask you to make small changes to your code. Again, if
+you have ownership of the code, you will not find it very difficult to make the changes I request.
+
+For each of the five small projects, your performance at the oral exam will be graded according to the following rubric:
+
+- 1 point: you demonstrated no knowledge of programming concepts required to complete the assignment;
+- 2 points: your knowledge of programming concepts is unsatisfactory;
+- 3 points: there is a serious flaw in your mastery of programming concepts necessary to complete the assignment;
+- 4 points: you have a solid knowledge of the relevant programming concepts, but you made a minor mistake;
+- 5 points: your knowledge and mastery of the relevant programming concepts is very solid.

@@ -220,10 +220,39 @@ in the word.
 
 #### Sample input/output
 
-User: `This is a test.`
-Your program: `Thaigis aigis aiga taigest.`
+- User: `This is a test.`
+- Your program: `Thaigis aigis aiga taigest.`
 
 #### Grading (5 points total)
 
 - Your is syntactically correct: 1 point
 - Your program correctly translates sentences that I supply: 4 points
+
+### Small Project E: Corpus Processing
+
+**Learning outcome:** After completing this assignment, you will have learned how to pre-process
+a corpus automatically using string operations in JavaScript, and how to derive basic corpus statistics
+based on word counting.
+
+**Programming concepts:** split, toUpperCase, toLowerCase, sort.
+
+#### Task
+
+Develop a JavaScript program that does all of the following:
+
+- Asks the user to copy and paste a text into an edit box on the web page.
+- Removes punctuation and extra white space.
+- Casts all words to upper case.
+- Counts the number of tokens and types in the text.
+- Displays a frequency dictionary of the types found in the text, sorted by descending frequency.
+- Calculates and displays the type/token ratio.
+
+A boilerplate file will be provided to assist you with the development of the user interface
+for this program.
+
+#### Grading (5 points total)
+
+- Your program is syntactically correct: 1 point.
+- Your program displays the frequency dictionary correctly: 3 points.
+- Your program calculates and displays TTR correctly: 2 points.
+

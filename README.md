@@ -81,13 +81,13 @@ program.
 
 #### Sample game
 
-- Your program (prompt box): Is your number 23?
-- User (enters into the prompt box): <
-- Your program: Is your number 1?
-- User: >
-- Your program (prompt box): Is your number 14?
-- User (enters into the prompt box): yes
-- Your program (alert box): I won!
+- Your program (prompt box): `Is your number 23?`
+- User (enters into the prompt box): `<`
+- Your program: `Is your number 1?`
+- User: `>`
+- Your program (prompt box): `Is your number 14?`
+- User (enters into the prompt box): `yes`
+- Your program (alert box): `I won!`
 
 #### Grading (5 points total)
 
@@ -125,11 +125,11 @@ characters must be left untouched.
 
 #### Sample input/output
 
-- Your program: Enter shift
-- User: -5
-- Your rprogram: Enter text
-- User: Hello, world!
-- Your program: Czggj, rjmgy!
+- Your program: `Enter shift`
+- User: `-5`
+- Your rprogram: `Enter text`
+- User: `Hello, world!`
+- Your program: `Czggj, rjmgy!`
 
 **Note:** The wording of the prompts "Enter shift" and "Enter text" is not
 prescribed, but the sequence of prompt boxes must follow the task
@@ -183,16 +183,15 @@ five different exercises for each preposition that your program supports.
 
 #### Sample input/output
 
-- Your program (prompt box): There is a table ___ the room.
-- User (enters into prompt box): on
-- Your program (alert box): There is a table in the room.
-- Your program (prompt box): The train will arrive ___ two hours.
-- User: in
-- Your program: Correct!
+- Your program (prompt box): `There is a table ___ the room.`
+- User (enters into prompt box): `on`
+- Your program (alert box): `There is a table in the room.`
+- Your program (prompt box): `The train will arrive ___ two hours.`
+- User: `in`
+- Your program: `Correct!`
 
 #### Grading (5 points total)
 
 - Your program is syntactically correct: 1 point.
 - Your program supports 5 prepositions, and for each preposition it supports 5 possible sentences: 1 point.
 - Your program implements a tutoring algorithm consisent with the assignment: 3 points.
-

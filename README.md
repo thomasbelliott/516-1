@@ -2,7 +2,7 @@
 
 **Textbook (required):** [Eloquent Javascript, 3rd edition](https://eloquentjavascript.net/) by Marijn Haverbeke. There is a free online version and a [paperback](https://www.amazon.com/Eloquent-JavaScript-3rd-Introduction-Programming/dp/1593279507/) for $25.
 
-## Schedule:
+## Schedule
 
 - W1: Foundations of information theory. Numeral systems.
 - W2: Representing logic, numbers, text, colors, and sounds in the computer.
@@ -22,6 +22,13 @@
 - Finals week: Written final exam (worth 20%).
 
 (For W1 & W2, read the Introduction from the textbook.)
+
+## Course Assessment Plan
+
+- Five small projects (A-E): 5% each, 25% total (rubric provided on the assignment sheet for each small project)
+- Oral exam based on the small projects: 25% (rubric provided on the study guide)
+- Final project: 30% (rubric provided on the assignment sheet)
+- Written final exam: 20% (rubric provided on the study guide)
 
 ## Assignment Sheets
 

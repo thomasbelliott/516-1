@@ -40,7 +40,9 @@ the best way to ensure that you retain ownership is to re-write that fragment of
 looking at the code that your helper wrote for you. If you borrow code from an online source, you should
 cite that source in a comment, e.g.:
 
-`// Quick Search implementation from: https://stackoverflow.com/questions/22697936/binary-search-in-javascript`
+```js
+// Quick Search implementation from: https://stackoverflow.com/questions/22697936/binary-search-in-javascript
+```
 
 The oral exam will be used to ascertain your ownership of the code that you have submitted.
 

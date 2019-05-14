@@ -57,10 +57,11 @@ origin". Make sure that your program carefully follows the input/output protocol
 
 **Learning outcome:** After completing this assignment, you will have learned how to
 conceptualize and implement in code a simple algorithm. Algorithms are a
-foundation of computer science and computational linguistics. The algorithm
-used in this small project is widely used in applied
-linguistics. For example, it is one of the primary alrogithms used in
-adaptive computer-assisted language testing.
+foundation of computer science and computational linguistics.
+
+**Broader impact:** The algorithm you will implement in this small project is one of the
+fundamental alrogithms used in adaptive computer-assisted language testing. ALT students
+have used this algorithm to develop an adaptive test of vocabulary size.
 
 **Programming concepts:** while-loop, binding, string, number, string comparison, condition.
 
@@ -101,6 +102,9 @@ program.
 strings of text on a character-by-character level, how to extract
 characters from strings, how to concatenate strings, and how to convert
 characters to their ASCII codes and back.
+
+**Broader impact:** The concepts you will master through this small project are used, explicitly
+or implicitly, in all text processing applications.
 
 **Programming concepts:** for-loop, string, character, ASCII code, modular arithmetic.
 
@@ -146,6 +150,8 @@ description.
 language learning goals and the current state of language learner using data structures (objects
 and arrays) in JavaScript. You will also learn how to develop simple adaptive computer-assisted
 language learning algorithms.
+
+**Broader impact:** Learner modeling is a cornerstone of all intelligent CALL and CAT applications.
 
 **Programming concepts:** array, object, random.
 
@@ -203,6 +209,10 @@ use regular expressions in JavaScript to perform search and replace operations o
 You will also learn to "translate" conceptual definitions of applied linguistic problems into
 formal instructions that are programmable for the computer.
 
+**Broader impact:** Regular expressions are helpful in most text processing applications.
+Formalizing linguistic problems is a crucial step in programming for any applied linguistic task.
+ALT students have widely used regular expressions in their coursework and dissertation projects.
+
 **Programming concepts:** regular expressions.
 
 #### Task
@@ -233,6 +243,9 @@ in the word.
 **Learning outcome:** After completing this assignment, you will have learned how to pre-process
 a corpus automatically using string operations in JavaScript, and how to derive basic corpus statistics
 based on word counting.
+
+**Broader impact:** ALT students often write scripts for processing corpora for their coursework
+and dissertation projects.
 
 **Programming concepts:** split, toUpperCase, toLowerCase, sort.
 

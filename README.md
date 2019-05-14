@@ -2,6 +2,10 @@
 
 **Textbook (required):** [Eloquent Javascript, 3rd edition](https://eloquentjavascript.net/) by Marijn Haverbeke. There is a free online version and a [paperback](https://www.amazon.com/Eloquent-JavaScript-3rd-Introduction-Programming/dp/1593279507/) for $25.
 
+## Office Hours
+
+Office hours will be scheduled based on a Doodle poll we will run at the beginning of the semester.
+
 ## Schedule
 
 - W1: [Introduction](https://eloquentjavascript.net/00_intro.html). Foundations of information theory. Numeral systems.
@@ -9,19 +13,17 @@
 - W3: [Chapter 1: Values, types, and operators.](https://eloquentjavascript.net/01_values.html) Exercises.
 - W4: [Chapter 2: Program structure.](https://eloquentjavascript.net/02_program_structure.html)
 - W5: [Small Project A: Number Guessing Game](#small-project-a) (5%).
-- W6: Chapter 3: Functions.
-- W7: Small Project B: Caesar Cipher (5%).
-- W8: Chapter 4: Data structures: objects and arrays.
-- W9: Small Project C: Learner Modeling (5%).
-- W10: Chapter 9: Regular expressions.
-- W11: Small Project D: Haigy Paigy (5%).
-- W12: Small Project E: Corpus Processing (5%).
+- W6: [Chapter 3: Functions.](https://eloquentjavascript.net/03_functions.html)
+- W7: [Small Project B: Caesar Cipher](#small-project-b) (5%).
+- W8: [Chapter 4: Data structures: objects and arrays.](https://eloquentjavascript.net/04_data.html)
+- W9: [Small Project C: Learner Modeling](#small-project-c) (5%).
+- W10: [Chapter 9: Regular expressions.](https://eloquentjavascript.net/09_regexp.html)
+- W11: [Small Project D: Haigy Paigy](#small-project-d) (5%).
+- W12: [Small Project E: Corpus Processing](#small-project-e) (5%).
 - W13: Oral exam - 25% - based strictly on Small Projects A-E.
 - W14: Chapter 13: JavaScript and the Browser.
 - W15: Final Project Presentations (Final project worth 30%).
 - Finals week: Written final exam (worth 20%).
-
-(For W1 & W2, read the Introduction from the textbook.)
 
 ## Course Assessment Plan
 
@@ -97,7 +99,8 @@ program.
 - Your program is able to guess numbers: 1 point.
 - Your program guesses numbers in the most efficient way: 3 points.
 
-### Small Project B: Caesar Cipher
+### Small Project B
+### Caesar Cipher
 
 **Learning outcome:** After completing this assignment, you will have learned how to process
 strings of text on a character-by-character level, how to extract
@@ -145,7 +148,8 @@ description.
 - Your is syntactically correct: 1 point
 - Your program correctly encodes strings that I supply: 4 points
 
-### Small Project C: Learner Modeling
+### Small Project C
+### Learner Modeling
 
 **Learning outcome:** After completing this assignment, you will have learned how to model
 language learning goals and the current state of language learner using data structures (objects
@@ -203,7 +207,8 @@ five different exercises for each preposition that your program supports.
 - Your program supports 5 prepositions, and for each preposition it supports 5 possible sentences: 1 point.
 - Your program implements a tutoring algorithm consisent with the assignment: 3 points.
 
-### Small Project D: Haigy Paigy
+### Small Project D
+### Haigy Paigy
 
 **Learning outcome:** Through completing this assignment, you will learn to
 use regular expressions in JavaScript to perform search and replace operations on strings.
@@ -239,7 +244,8 @@ in the word.
 - Your is syntactically correct: 1 point
 - Your program correctly translates sentences that I supply: 4 points
 
-### Small Project E: Corpus Processing
+### Small Project E
+### Corpus Processing
 
 **Learning outcome:** After completing this assignment, you will have learned how to pre-process
 a corpus automatically using string operations in JavaScript, and how to derive basic corpus statistics
@@ -269,3 +275,13 @@ for this program.
 - Your program is syntactically correct: 1 point.
 - Your program displays the frequency dictionary correctly: 3 points.
 - Your program calculates and displays TTR correctly: 2 points.
+
+### Final Project
+
+For the final project, you will develop a program that solves an applied linguistics problem of your choice.
+
+#### Projects from previous years:
+
+**Adaptive vocabulary size test.** ALT students developed a program that delivers an adaptive computer-assisted
+test of vocabulary size. They used the COCA list of top 5000 words, a list of pseudo-words, and a binary search
+algorithm (similar to the one implemented in Small Project A).

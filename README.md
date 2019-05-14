@@ -4,11 +4,11 @@
 
 ## Schedule
 
-- W1: Foundations of information theory. Numeral systems.
+- W1: [Introduction](https://eloquentjavascript.net/00_intro.html). Foundations of information theory. Numeral systems.
 - W2: Representing logic, numbers, text, colors, and sounds in the computer.
-- W3: Chapter 1: Values, types, and operators. Exercises.
-- W4: Chapter 2: Program structure.
-- W5: Small Project A: Number Guessing Game (5%).
+- W3: [Chapter 1: Values, types, and operators.](https://eloquentjavascript.net/01_values.html) Exercises.
+- W4: [Chapter 2: Program structure.](https://eloquentjavascript.net/02_program_structure.html)
+- W5: [Small Project A: Number Guessing Game](#small-project-a) (5%).
 - W6: Chapter 3: Functions.
 - W7: Small Project B: Caesar Cipher (5%).
 - W8: Chapter 4: Data structures: objects and arrays.
@@ -53,7 +53,8 @@ so "PROJECTA.HTML" and "projecta.html" are two different files. After you
 complete your assignment, do not forget to "commit master" and "push
 origin". Make sure that your program carefully follows the input/output protocol described in the assignment directios.
 
-### Small Project A: Number Guessing Game
+### Small Project A
+### Number Guessing Game
 
 **Learning outcome:** After completing this assignment, you will have learned how to
 conceptualize and implement in code a simple algorithm. Algorithms are a

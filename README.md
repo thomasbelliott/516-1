@@ -255,7 +255,7 @@ Develop a JavaScript program that does all of the following:
 
 - Asks the user to copy and paste a text into an edit box on the web page.
 - Removes punctuation and extra white space.
-- Casts all words to upper case.
+- Casts all words to the upper case.
 - Counts the number of tokens and types in the text.
 - Displays a frequency dictionary of the types found in the text, sorted by descending frequency.
 - Calculates and displays the type/token ratio.
@@ -268,4 +268,3 @@ for this program.
 - Your program is syntactically correct: 1 point.
 - Your program displays the frequency dictionary correctly: 3 points.
 - Your program calculates and displays TTR correctly: 2 points.
-

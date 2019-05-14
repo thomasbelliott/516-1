@@ -139,3 +139,60 @@ description.
 
 - Your is syntactically correct: 1 point
 - Your program correctly encodes strings that I supply: 4 points
+
+### Small Project C: Learner Modeling
+
+**Learning outcome:** After completing this assignment, you will have learned how to model
+language learning goals and the current state of language learner using data structures (objects
+and arrays) in JavaScript. You will also learn how to develop simple adaptive computer-assisted
+language learning algorithms.
+
+**Programming concepts:** array, object, random.
+
+#### Task
+
+Write a program that teaches English prepositions using a series of fill-in-the-blank exercises. Each
+exercise will be in the following format:
+
+`Are you wearing anything ___ your sweater?`
+
+That is, the exercise will have a sentence with a preposition replaced with a sequence of underscores.
+The user of your program will be an English language learner. The user will complete each exercise by
+entering the preposition which, in the user's opinion, should be inserted in place of the blank. For example,
+a response to the exercise shown above might be:
+
+`underneath`
+
+Your program will show each exercise in a prompt box. After the user enters their response, your program will display
+an alert box which can have one of the following two messages:
+
+- a message saying `Correct!` if the user's response was correct; or
+- a message displaying the sentence with the correct preposition, for example: `Are you wearing anything underneath your sweater?`
+
+After presenting this feedback to the user, the program will  move on to displaying the next exercise.
+
+Your program will be tracking the user's progress in the learning of each preposition. At each step, the program
+will provide an exercise targeting the preposition which the user has mastered to the least extent. Mastery level
+for the preposition *x* should be calculated as the number of times the user has gotten the preposition *x* correct
+in exercises less the number of times the user has gotten the preposition *x* wrong.
+
+You should use a JavaScript object in your program to track the user's mastery levels for all prepositions.
+
+You should develop your program so that it supports at least five different prepositions and provides at least
+five different exercises for each preposition that your program supports.
+
+#### Sample input/output
+
+- Your program (prompt box): There is a table ___ the room.
+- User (enters into prompt box): on
+- Your program (alert box): There is a table in the room.
+- Your program (prompt box): The train will arrive ___ two hours.
+- User: in
+- Your program: Correct!
+
+#### Grading (5 points total)
+
+- Your program is syntactically correct: 1 point.
+- Your program supports 5 prepositions, and for each preposition it supports 5 possible sentences: 1 point.
+- Your program implements a tutoring algorithm consisent with the assignment: 3 points.
+

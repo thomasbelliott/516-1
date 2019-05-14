@@ -21,7 +21,7 @@ Office hours will be scheduled based on a Doodle poll we will run at the beginni
 - W11: [Small Project D: Haigy Paigy](#small-project-d) (5%).
 - W12: [Small Project E: Corpus Processing](#small-project-e) (5%).
 - W13: Oral exam - 25% - based strictly on Small Projects A-E.
-- W14: Chapter 13: JavaScript and the Browser.
+- W14: [Chapter 13: JavaScript and the Browser.](https://eloquentjavascript.net/13_browser.html)
 - W15: Final Project Presentations (Final project worth 30%).
 - Finals week: Written final exam (worth 20%).
 
@@ -306,6 +306,7 @@ for this program.
 ### Final Project
 
 For the final project, you will develop a program that solves an applied linguistics problem of your choice.
+Working on the final project might require you to read book chapters beyond the ones we cover in class.
 
 #### Projects from previous years:
 

@@ -195,3 +195,35 @@ five different exercises for each preposition that your program supports.
 - Your program is syntactically correct: 1 point.
 - Your program supports 5 prepositions, and for each preposition it supports 5 possible sentences: 1 point.
 - Your program implements a tutoring algorithm consisent with the assignment: 3 points.
+
+### Small Project D: Haigy Paigy
+
+**Learning outcome:** Through completing this assignment, you will learn to
+use regular expressions in JavaScript to perform search and replace operations on strings.
+You will also learn to "translate" conceptual definitions of applied linguistic problems into
+formal instructions that are programmable for the computer.
+
+**Programming concepts:** regular expressions.
+
+#### Task
+
+Haigy Paigy is as a children's invented language which sounds exactly like English, except that "aig" is inserted before
+the rime of each syllable. E.g., the English word "hello" becomes "haigellaigo" in Haigy Paigy.
+
+Write a program in JavaScript that will prompt the user to enter a sentence, automatically translate it from English
+into Haigy Paigy, and display the result of the translation as an alert box. In your program, you will need to write
+a set of regular expressions that will translate the input sentence into Haigy Paigy.
+
+**Simplifications:** only vowels can be syllable nuclei; the letter "y" always makes a vowel sound; several consecutive
+vowel letters always make a single vowel sound; the final "e" is always silent, except when it is the only vowel letter
+in the word.
+
+#### Sample input/output
+
+User: `This is a test.`
+Your program: `Thaigis aigis aiga taigest.`
+
+#### Grading (5 points total)
+
+- Your is syntactically correct: 1 point
+- Your program correctly translates sentences that I supply: 4 points

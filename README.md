@@ -32,13 +32,38 @@ Office hours will be scheduled based on a Doodle poll we will run at the beginni
 - Final project: 30% (rubric provided on the assignment sheet)
 - Written final exam: 20% (rubric provided on the study guide)
 
+## Course Policies
+
+**Collaborative work.** You may use the help of others to work on your projects. However, you must retain
+ownership (authorship) of the code that you submit. If someone helps you write a fragment of your code,
+the best way to ensure that you retain ownership is to re-write that fragment of code on your own without
+looking at the code that your helper wrote for you. If you borrow code from an online source, you should
+cite that source in a comment, e.g.:
+
+`// Quick Search implementation from: https://stackoverflow.com/questions/22697936/binary-search-in-javascript`
+
+The oral exam will be used to ascertain your ownership of the code that you have submitted.
+
+**Attendance and participation.** There are no points for attendance and participation. You can miss any
+number of class meetings without penalty. You must complete all coursework regardless of your presence in class.
+Please be aware that regular class attendance and active participation is a strong predictor of your final grade
+(i.e. non-attending and non-participating students have historically received low grades this course).
+
+**Preparing for class.** Before each class meeting, you are expected to have done all of the following:
+
+- read and understand the contents of the assigned book chapter;
+- run all code examples given in the text of the chapter and make sure that you understand them;
+- without looking at solutions, attempt all exercises given at the end of the chapter.
+
+Preparing for class strongly predicts success in learning.
+
 ## Assignment Sheets
 
 ### General Notes
 
 #### Submission deadlines
 
-Each small project is due by the end of day on Wednesday following the week when the project is assigned.
+Each small project is due by the end of day (23:59) on Wednesday following the week when the project is assigned.
 Grades will be given by the end of day on Friday of the week when the project is due.
 Formative feedback will be provided by the end of day on Wednesday of the following week.
 To keep you on track with the class, late submissions are strongly discouraged. If you must submit a small project late,
@@ -53,7 +78,7 @@ Your file name should not contain quotes, spaces,
 or any other symbols. Please also note that file names are case sensitive,
 so "PROJECTA.HTML" and "projecta.html" are two different files. After you
 complete your assignment, do not forget to "commit master" and "push
-origin". Make sure that your program carefully follows the input/output protocol described in the assignment directios.
+origin." Make sure that your program carefully follows the input/output protocol described in the assignment directios.
 
 ### Small Project A
 ### Number Guessing Game

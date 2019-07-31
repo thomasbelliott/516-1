@@ -100,7 +100,7 @@ have used this algorithm to develop an adaptive test of vocabulary size.
 Create a web page with an embedded JavaScript program that plays the
 "number guessing game" with the user as follows:
 
-1. The user is asked to think of an integer number between 1 and 100 (inclusive).
+1. The user is asked to think of an integer between 1 and 100 (inclusive).
 2. The program needs to repeatedly take guesses at the number the user has in mind.
 3. To each of the program's guesses, the user responds "<" if the target
 number is less than the program's guess; ">" if the target number is
@@ -146,7 +146,7 @@ Caesar cipher with a user-specified shift for the upper-case and lower-case
 English letters. The letters must wrap around.
 
 1. The user is shown a first prompt box and asked to enter a positive or
-negative integer number representing the desired shift. For example, a left
+negative integer representing the desired shift. For example, a left
 shift of 3 places would be represented as -3; a right shift of 1 place
 would be represented as 1.
 
@@ -162,7 +162,7 @@ characters must be left untouched.
 
 - Your program: `Enter shift`
 - User: `-5`
-- Your rprogram: `Enter text`
+- Your program: `Enter text`
 - User: `Hello, world!`
 - Your program: `Czggj, rjmgy!`
 
@@ -205,7 +205,7 @@ Your program will show each exercise in a prompt box. After the user enters thei
 an alert box which can have one of the following two messages:
 
 - a message saying `Correct!` if the user's response was correct; or
-- a message displaying the sentence with the correct preposition, for example: `Are you wearing anything underneath your sweater?`
+- a message displaying the sentence with the correct preposition, for example: `Are you wearing anything underneath your sweater?` if the user's response was not correct.
 
 After presenting this feedback to the user, the program will  move on to displaying the next exercise.
 
@@ -213,6 +213,8 @@ Your program will be tracking the user's progress in the learning of each prepos
 will provide an exercise targeting the preposition which the user has mastered to the least extent. Mastery level
 for the preposition *x* should be calculated as the number of times the user has gotten the preposition *x* correct
 in exercises less the number of times the user has gotten the preposition *x* wrong.
+
+For example, if learner A responds to two items on preposition *x* and answers them both correctly, then his mastery level for preposition *x* will be 2. If learner B responds to 4 items on preposition *x*, but answers only 2 of them correctly, then his mastery level will be 0.
 
 You should use a JavaScript object in your program to track the user's mastery levels for all prepositions.
 

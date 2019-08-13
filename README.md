@@ -8,7 +8,7 @@ Office hours will be scheduled based on a Doodle poll we will run at the beginni
 
 ## Schedule
 
-- W1: [Introduction](https://eloquentjavascript.net/00_intro.html). Foundations of information theory. Numeral systems.
+- W1: [Introduction](https://eloquentjavascript.net/00_intro.html). Foundations of information theory. Numeral systems. [Homework problems](week1.md)
 - W2: Representing logic, numbers, text, colors, and sounds in the computer.
 - W3: [Chapter 1: Values, types, and operators.](https://eloquentjavascript.net/01_values.html) Exercises.
 - W4: [Chapter 2: Program structure.](https://eloquentjavascript.net/02_program_structure.html)

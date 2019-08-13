@@ -1,6 +1,6 @@
 # Week 1 Homework Problems
 
-1. How much information does a coss toin contain? a single dice roll?
+1. How much information does a coin toss contain? a single dice roll?
 
 2. Alice is telling Bob about the outcome of the U.S. presidential election (Bob doesn't have prior knowledge of the outcome). The speed of the network connection between Alice and Bob is 10 Mbps (megabits per second). How long will it take Alice to communicate this information to Bob over this network connection?
 

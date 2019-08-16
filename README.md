@@ -20,12 +20,12 @@
 - W8: [Chapter 4: Data structures: objects and arrays.](https://eloquentjavascript.net/04_data.html)
 - W9: [Small Project C: Learner Modeling](#small-project-c) (5%).
 - W10: [Chapter 9: Regular expressions.](https://eloquentjavascript.net/09_regexp.html)
-- W11: [Small Project D: Haigy Paigy](#small-project-d) (5%). **Final project proposals due on Friday**
+- W11: [Small Project D: Haigy Paigy](#small-project-d) (5%). **[Final project](final_project.md) proposals due on Friday**
 - W12: [Small Project E: Corpus Processing](#small-project-e) (5%).
-- W13: Oral exam - 25% - based strictly on Small Projects A-E. **Final project paper drafts due on Friday**
+- W13: Oral exam - 25% - based strictly on Small Projects A-E. **[Final project](final_project.md) paper drafts due on Friday**
 - W14: [Chapter 13: JavaScript and the Browser.](https://eloquentjavascript.net/13_browser.html)
 - W15: Final Project Presentations (Final project worth 30%).
-- Finals week: Written final exam (worth 20%). **Final project papers due on Friday**
+- Finals week: Written final exam (worth 20%). **[Final project](final_project.md) papers and programs due on Friday**
 
 ## Course Assessment Plan
 

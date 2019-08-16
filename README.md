@@ -49,7 +49,7 @@ The oral exam will be used to ascertain your ownership of the code that you have
 **Attendance and participation.** There are no points for attendance and participation. You can miss any
 number of class meetings without penalty. You must complete all coursework regardless of your presence in class.
 Please be aware that regular class attendance and active participation is a strong predictor of your final grade
-(i.e. non-attending and non-participating students have historically received low grades this course).
+(i.e. non-attending and non-participating students have historically received low grades in this course).
 
 **Preparing for class.** Before each class meeting, you are expected to have done all of the following:
 
@@ -74,7 +74,7 @@ you must tell me in advance.
 #### Submission procedure
 
 I will access your GitHub
-repository after the deadline to retrieve your project file. For each small project, create a new file
+repository after the deadline to retrieve your project file. For each small project, create a file
 in your GitHub repository named **projectx.html**, where **x** is the letter designation of the project (**a**-**e**).
 Your file name should not contain quotes, spaces,
 or any other symbols. Please also note that file names are case sensitive,
@@ -172,7 +172,7 @@ description.
 
 #### Grading (5 points total)
 
-- Your is syntactically correct: 1 point
+- Your program is syntactically correct: 1 point
 - Your program correctly encodes strings that I supply: 4 points
 
 ### Small Project C
@@ -252,7 +252,7 @@ ALT students have widely used regular expressions in their coursework and disser
 
 #### Task
 
-Haigy Paigy is as a children's invented language which sounds exactly like English, except that "aig" is inserted before
+Haigy Paigy is a children's invented language which sounds exactly like English, except that "aig" is inserted before
 the rime of each syllable. E.g., the English word "hello" becomes "haigellaigo" in Haigy Paigy.
 
 Write a program in JavaScript that will prompt the user to enter a sentence, automatically translate it from English
@@ -270,7 +270,7 @@ in the word.
 
 #### Grading (5 points total)
 
-- Your is syntactically correct: 1 point
+- Your program is syntactically correct: 1 point
 - Your program correctly translates sentences that I supply: 4 points
 
 ### Small Project E

@@ -316,6 +316,10 @@ Working on the final project might require you to read book chapters beyond the 
 test of vocabulary size. They used the COCA list of top 5000 words, a list of pseudo-words, and a binary search
 algorithm (similar to the one implemented in Small Project A).
 
+**Splitting a text.** In a 591B class, students developed programs that will read in a single file containing multiple texts, and then split the texts into separate files.
+
+**Working with tagged texts.** In a 591B class, students developed programs that process a corpus of tagged texts to obtain normalized rates of occurrence of linguistic feature for each text. This file then could be opened in Excel, SPSS or R for further statistical analyses.
+
 ## Study Guides
 
 ### Oral Exam

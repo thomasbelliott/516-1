@@ -9,11 +9,24 @@ Working on the final project might require you to read book chapters beyond the 
 test of vocabulary size. They used the COCA list of top 5000 words, a list of pseudo-words, and a binary search
 algorithm (similar to the one implemented in Small Project A).
 
-**Dialog system for assessment purposes.** A spoken (or chat-based) dialog system that carries out a scripted dialog with the user to elicit scorable discourse.
+**Interactive pronunciation activity.** ALT students developed a webpage with embedded JavaScript code that delivered interactive activities for learning pronunciation.
 
-**Splitting a text.** In a 591B class, students developed programs that will read in a single file containing multiple texts, and then split the texts into separate files.
+**Audio recording prompter.** When acquiring audio recordings of sentences for phonetic/phonology studies,
+it is hard to ensure that research participants do not use rising "list" intonation at the end of each sentence.
+One approach is to show them stimuli sentences one-by-one instead of providing a full list. A solution
+not requiring any programming would be to create a powerpoint presentation with one stimulus sentence per slide. When
+thousands of sentences need to be recorded, this proved difficult. Instead, ALT students created a web page with
+embedded JavaScript code that shows stimuli in a predefined sequence, advancing to the next "slide" on a keypress.
 
-**Working with tagged texts.** In a 591B class, students developed programs that process a corpus of tagged texts to obtain normalized rates of occurrence of linguistic feature for each text. This file then could be opened in Excel, SPSS or R for further statistical analyses.
+**Dialog system for assessment purposes.** ALT students have been developing spoken (or chat-based) dialog systes
+that carry out a scripted dialog with the user to elicit scorable discourse.
+
+**Splitting a text.** In a 591B class, students developed programs that read in a single file containing multiple texts,
+and then split the texts into separate files.
+
+**Working with tagged texts.** In a 591B class, students developed programs that process a corpus of tagged texts to obtain
+normalized rates of occurrence of linguistic feature for each text. This file then could be opened in Excel, SPSS or R
+for further statistical analyses.
 
 ## Grading (30 points total)
 

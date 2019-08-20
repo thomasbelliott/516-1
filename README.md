@@ -1,14 +1,14 @@
 # ENGL 516 - Methods of Formal Linguistic Analysis
 
+**Catalog description:** Data and knowledge structures for formal representation of natural language and speech data. Designing and implementing algorithms for automating linguistic analysis tasks. Conceptual issues for natural language and speech processing programming.
+
 **Textbook (required):** [Eloquent Javascript, 3rd edition](https://eloquentjavascript.net/) by Marijn Haverbeke. There is a free online version and a [paperback](https://www.amazon.com/Eloquent-JavaScript-3rd-Introduction-Programming/dp/1593279507/) for $25.
 
 **Meeting:** MW 9:30-11:30 @ ROSS 312
 
 **Office hours** will be scheduled based on a Doodle poll we will run at the beginning of the semester.
 
-## Schedule
-
-**The schedule is tentative and subject to change.**
+## Tentative Schedule
 
 - W1: [Introduction](https://eloquentjavascript.net/00_intro.html). Foundations of information theory. Numeral systems. [Homework problems](week1.md)
 - W2: Representing logic, numbers, text, colors, and sounds in the computer.

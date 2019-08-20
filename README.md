@@ -125,8 +125,9 @@ program.
 #### Grading (5 points total)
 
 - Your program is syntactically correct: 1 point.
+- Your program follows formatting guidelines: 1 point.
 - Your program is able to guess numbers: 1 point.
-- Your program guesses numbers in the most efficient way: 3 points.
+- Your program guesses numbers in the most efficient way: 2 points.
 
 ### Small Project B
 ### Caesar Cipher
@@ -174,8 +175,9 @@ description.
 
 #### Grading (5 points total)
 
-- Your program is syntactically correct: 1 point
-- Your program correctly encodes strings that I supply: 4 points
+- Your program is syntactically correct: 1 point.
+- Your program follows formatting guidelines: 1 point.
+- Your program correctly encodes strings that I supply: 3 points.
 
 ### Small Project C
 ### Learner Modeling
@@ -235,8 +237,9 @@ five different exercises for each preposition that your program supports.
 #### Grading (5 points total)
 
 - Your program is syntactically correct: 1 point.
+- Your program follows formatting guidelines: 1 point.
 - Your program supports 5 prepositions, and for each preposition it supports 5 possible sentences: 1 point.
-- Your program implements a tutoring algorithm consisent with the assignment: 3 points.
+- Your program implements a tutoring algorithm consisent with the assignment: 2 points.
 
 ### Small Project D
 ### Haigy Paigy
@@ -272,8 +275,9 @@ in the word.
 
 #### Grading (5 points total)
 
-- Your program is syntactically correct: 1 point
-- Your program correctly translates sentences that I supply: 4 points
+- Your program is syntactically correct: 1 point.
+- Your program follows formatting guidelines: 1 point.
+- Your program correctly translates sentences that I supply: 3 points.
 
 ### Small Project E
 ### Corpus Processing
@@ -304,8 +308,9 @@ for this program.
 #### Grading (5 points total)
 
 - Your program is syntactically correct: 1 point.
-- Your program displays the frequency dictionary correctly: 3 points.
-- Your program calculates and displays TTR correctly: 2 points.
+- Your program follows formatting guidelines: 1 point.
+- Your program displays the frequency dictionary correctly: 2 points.
+- Your program calculates and displays TTR correctly: 1 point.
 
 ## Study Guides
 

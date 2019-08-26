@@ -3,7 +3,8 @@
 ## Follow the instructions below.
 
 Step 0. Make Google Chrome your default browser
-- https://support.google.com/chrome/answer/95417
+- This step is not necessary if you have experience using Developer's Tools in another browser.
+- [Follow these instructions](https://support.google.com/chrome/answer/95417)
 
 Step 1. Register for a free GitHub account
 - Go to [github.com](https://github.com/)
@@ -34,6 +35,7 @@ https://yourusername.github.io/516/
 - If you see "Hello, world!", congratulations! You have successfully completed this step.
 
 Step 4. Download and install a text editor
+- You may skip this step if you are comfortable using another plain text editor (and you know what you are doing)
 - If you use Windows, download and install the text editor “Notepad++” from https://notepad-plus-plus.org/
 - If you use a Mac, install the app "TextWrangler" from the Apple AppStore
 

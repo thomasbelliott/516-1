@@ -12,7 +12,7 @@ Step 1. Register for a free GitHub account
 
 Step 2. Create a new repository
 - Click "New repository" on the left.
-- Under "Repository name", enter "320" (without quotes). This will be the name of your repository.
+- Under "Repository name", enter "516" (without quotes). This will be the name of your repository.
 - Leave all other options as default.
 - Click "Create repository"
 - You will now be taken to the main page your new GitHub repository. Find the line that says "Get started by creating a new file or uploading an existing file". Click on "creating a new file".
@@ -39,9 +39,9 @@ Step 5. Install the desktop client
 - Download the GitHub desktop for your platform
 - Log in with your email and password that you've set up above
 - Click "Clone a repository"
-- Under "GitHub.com", select your repository: iastate-netid/320
+- Under "GitHub.com", select your repository: iastate-netid/516
 - Once the repository is cloned, click "Fetch origin" at the top
-- Click “Repository”, then “Show in Explorer” (on Windows) or “Show in Finder” (on Mac). A folder named “320” with your “index.html” file will open.
+- Click “Repository”, then “Show in Explorer” (on Windows) or “Show in Finder” (on Mac). A folder named “51” with your “index.html” file will open.
 - Double-click the “index.html” file to verify that it opens in your browser and displays the “Hello, world!” message.
 - On Windows, right-click the “index.html” file and click “Edit with Notepad++”. On Mac, select “File”, then “Open with”, then “TextWrangler”.
 - On either system, the file will open in a text editor. Add a second line to the file saying “This is a test” (without quotes). Save the file.

@@ -3,7 +3,7 @@
 ## Follow the instructions below.
 
 Step 1. Register for a free GitHub account
-- Go to github.com
+- Go to [github.com](https://github.com/)
 - Under "Sign up", you are asked to pick a username. Select a username by which you would be known on the GitHub site. (If possible and to avoid confusion, you may want to select a username identical or similar to your ISU net-id.)
 - On the "Welcome to GitHub" screen, choose the "Free" plan ($0), click "Continue".
 - You may skip the "Tailor your experience" step.

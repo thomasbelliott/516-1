@@ -2,6 +2,9 @@
 
 ## Follow the instructions below.
 
+Step 0. Make Google Chrome your default browser
+- https://support.google.com/chrome/answer/95417
+
 Step 1. Register for a free GitHub account
 - Go to [github.com](https://github.com/)
 - Under "Sign up", you are asked to pick a username. Select a username by which you would be known on the GitHub site. (If possible and to avoid confusion, you may want to select a username identical or similar to your ISU net-id.)

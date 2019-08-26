@@ -4,13 +4,13 @@
 
 **Textbook (required):** [Eloquent Javascript, 3rd edition](https://eloquentjavascript.net/) by Marijn Haverbeke. There is a free online version and a [paperback](https://www.amazon.com/Eloquent-JavaScript-3rd-Introduction-Programming/dp/1593279507/) for $25.
 
-**Meeting:** MW 9:30-11:30 @ ROSS 312
+**Meeting:** MW 9:30-11:00 @ ROSS 312
 
 **Office hours** will be scheduled based on a Doodle poll we will run at the beginning of the semester.
 
 ## Tentative Schedule
 
-- W1: [Introduction](https://eloquentjavascript.net/00_intro.html). Foundations of information theory. Numeral systems. [Homework problems](week1.md)
+- W1: [Introduction](https://eloquentjavascript.net/00_intro.html). Foundations of information theory. Numeral systems. [Homework problems](week1.md); [Set up GitHub](setup_github.md)
 - W2: Representing logic, numbers, text, colors, and sounds in the computer.
 - W3: [Chapter 1: Values, types, and operators.](https://eloquentjavascript.net/01_values.html) Exercises.
 - W4: [Chapter 2: Program structure.](https://eloquentjavascript.net/02_program_structure.html)

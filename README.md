@@ -4,7 +4,7 @@
 
 **Textbook (required):** [Eloquent Javascript, 3rd edition](https://eloquentjavascript.net/) by Marijn Haverbeke. There is a free online version and a [paperback](https://www.amazon.com/Eloquent-JavaScript-3rd-Introduction-Programming/dp/1593279507/) for $25.
 
-**Meeting:** MW 9:30-11:00 @ ROSS 312
+**Meeting:** MW 9:30-10:50 @ ROSS 312
 
 **Office hours** will be scheduled based on a Doodle poll we will run at the beginning of the semester.
 

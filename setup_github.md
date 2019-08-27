@@ -31,7 +31,7 @@ Step 2. Create a new repository
 Step 3. Check if you've done everything correctly
 - Wait for a couple of minutes to make sure all changes are applied, then go to:
 https://yourusername.github.io/516/
-(replace yourusername with the username you selecte in step 1)
+(replace yourusername with the username you selected in step 1)
 - If you see "Hello, world!", congratulations! You have successfully completed this step.
 
 Step 4. Download and install a text editor
@@ -46,10 +46,10 @@ Step 5. Install the desktop client
 - Click "Clone a repository"
 - Under "GitHub.com", select your repository: iastate-netid/516
 - Once the repository is cloned, click "Fetch origin" at the top
-- Click “Repository”, then “Show in Explorer” (on Windows) or “Show in Finder” (on Mac). A folder named “51” with your “index.html” file will open.
+- Click “Repository”, then “Show in Explorer” (on Windows) or “Show in Finder” (on Mac). A folder named “516” with your “index.html” file will open.
 - Double-click the “index.html” file to verify that it opens in your browser and displays the “Hello, world!” message.
 - On Windows, right-click the “index.html” file and click “Edit with Notepad++”. On Mac, select “File”, then “Open with”, then “TextWrangler”.
 - On either system, the file will open in a text editor. Add a second line to the file saying “This is a test” (without quotes). Save the file.
 - Go back to the “GitHub Desktop” window. It should show you the change that you’ve made to the file. Click “Commit to master”, the “Push origin”.
-- Wait for a couple of minutes to make sure all changes are applied, then go to: https://yourusername.github.io/516/ (replace yourusername with the username you selecte in step 1)
+- Wait for a couple of minutes to make sure all changes are applied, then go to: https://yourusername.github.io/516/ (replace yourusername with the username you selected in step 1)
 - If you see "Hello, world! This is a test", congratulations! You have successfully completed this homework assignment.

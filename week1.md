@@ -23,7 +23,7 @@ By September 4, please do all of the following:
 
 ## C. Complete the following step-by-step instructions:
 
-1. [setup_github.md](Set up your GitHub account)
+1. [Set up your GitHub account](setup_github.md)
 2. Submit this assignment by going to the [course website](https://linguatorium.com/portal/) and clicking on "Submit your assignment" under "Setting Up GitHub".
 
 ## D. Verify that you understand answers to the following problems (and the thought process behind obtaining these answers):

@@ -12,7 +12,7 @@
 
 - W1: [Introduction](https://eloquentjavascript.net/00_intro.html). Foundations of information theory. Numeral systems. [Slides](week1_slides.pptx); [Homework assignments](week1.md)
 - W2: Representing information in the computer: logic, numbers, colors, text. [Slides](week2_slides.pptx)
-- W3: Representing information in the computer (continued); [Chapter 1: Values, types, and operators.](https://eloquentjavascript.net/01_values.html) [Slides](week2_slides.pptx); [Homework assignments](week3.md)
+- W3: Representing information in the computer (continued); [Chapter 1: Values, types, and operators.](https://eloquentjavascript.net/01_values.html) [Slides](week3_slides.pptx); [Homework assignments](week3.md)
 - W4: [Chapter 2: Program structure.](https://eloquentjavascript.net/02_program_structure.html)
 - W5: [Small Project A: Number Guessing Game](#small-project-a) (5%).
 - W6: [Chapter 3: Functions.](https://eloquentjavascript.net/03_functions.html)

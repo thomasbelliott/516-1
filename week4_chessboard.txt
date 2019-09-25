@@ -1,0 +1,25 @@
+<script>
+
+let j = 1;
+
+let output = "";
+
+while (j <= 8) {
+  let i = 1;
+  while (i <= 8) {
+    let isRowEven = (i % 2 == 0);
+    let isColumnEven = (j % 2 == 0);
+    if (isRowEven != isColumnEven) {
+      output = output + "#";
+    } else {
+      output = output + " ";
+    }
+    i = i + 1;
+  }
+  output = output + "\n";
+  j = j + 1;
+}
+
+console.log(output);
+
+</script>

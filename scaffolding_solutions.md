@@ -26,7 +26,7 @@ if (number == Math.floor(number)) {
 2. Write a program that asks the user to enter numbers and keeps (and displays) the running total
 of these numbers.
 
-```
+```javascript
 let total = 0;
 while (true) {
   let number = prompt("Enter the next number");

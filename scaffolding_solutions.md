@@ -30,7 +30,7 @@ of these numbers.
 let total = 0;
 while (true) {
   let number = prompt("Enter the next number");
-  total += number;
+  total += Number(number);
   alert("The running total is "+total);
 }
 ```

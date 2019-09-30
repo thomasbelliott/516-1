@@ -100,7 +100,7 @@ have used this algorithm to develop an adaptive test of vocabulary size.
 Create a web page with an embedded JavaScript program that plays the
 "number guessing game" with the user as follows:
 
-1. The user is asked to think of an integer between 1 and 100 (inclusive).
+1. The user thinks of an integer between 1 and 100 (inclusive).
 2. The program needs to repeatedly take guesses at the number the user has in mind.
 3. To each of the program's guesses, the user responds "<" if the target
 number is less than the program's guess; ">" if the target number is

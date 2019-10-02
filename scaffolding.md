@@ -12,6 +12,6 @@ of these numbers.
 
 3. Define a function `CtoF()` that converts temperature from Celsius to Fahrenheit.
 
-4. Define a function that uses recursion calculates [the Fibbonaci number](https://en.wikipedia.org/wiki/Fibonacci_number) *F(n)* for any given natural number *n* as follows: F(1)=1, F(2)=1, F(n)=F(n-2)+F(n-1).
+4. Define a function that uses recursion calculates [the Fibonacci number](https://en.wikipedia.org/wiki/Fibonacci_number) *F(n)* for any given natural number *n* as follows: F(1)=1, F(2)=1, F(n)=F(n-2)+F(n-1).
 
 [Solutions](scaffolding_solutions.md)

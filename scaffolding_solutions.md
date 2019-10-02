@@ -45,11 +45,11 @@ const CtoF = function(C) {
 ```
 
 
-4. Define a function that uses recursion calculates the Fibbonaci number *F(n)* for any given natural number *n* as follows: F(1)=1, F(2)=1, F(n)=F(n-2)+F(n-1).
+4. Define a function that uses recursion calculates the Fibonacci number *F(n)* for any given natural number *n* as follows: F(1)=1, F(2)=1, F(n)=F(n-2)+F(n-1).
 
 ```javascript
-const fibbonaci = function(n) {
+const fibonacci = function(n) {
   if (n == 1 || n == 2) return 1;
-  return fibonnaci(n-2) + fibonnaci(n-1);
+  return fibonacci(n-2) + fibonacci(n-1);
 }
 ```

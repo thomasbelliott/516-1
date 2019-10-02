@@ -34,3 +34,22 @@ while (true) {
   alert("The running total is "+total);
 }
 ```
+
+3. Define a function `CtoF()` that converts temperature from Celsius to Fahrenheit.
+
+```javascript
+const CtoF = function(C) {
+  let F = C * (9/5) + 32;
+  return F;
+}
+```
+
+
+4. Define a function that uses recursion calculates the Fibbonaci number *F(n)* for any given natural number *n* as follows: F(1)=1, F(2)=1, F(n)=F(n-2)+F(n-1).
+
+```javascript
+const fibbonaci = function(n) {
+  if (n == 1 || n == 2) return 1;
+  return fibonnaci(n-2) + fibonnaci(n-1);
+}
+```

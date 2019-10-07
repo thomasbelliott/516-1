@@ -138,7 +138,7 @@ characters to their ASCII codes and back.
 **Broader impact:** The concepts you will master through this small project are used, explicitly
 or implicitly, in all text processing applications.
 
-**Programming concepts:** for-loop, string, character, ASCII code, modular arithmetic.
+**Programming concepts:** for-loop, string, character, ASCII code, modular arithmetic; you may want to use [charCodeAt()](https://www.w3schools.com/jsref/jsref_charcodeat.asp) and [fromCharCode()](https://www.w3schools.com/jsref/jsref_fromcharcode.asp).
 
 #### Task
 

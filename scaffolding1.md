@@ -1,4 +1,4 @@
-1. Write a program that asks the user to enter two numbers and displays an alert box with the sum of the numbers entered.
+**1. Write a program that asks the user to enter two numbers and displays an alert box with the sum of the numbers entered.**
 
 <details><summary>Solution</summary>
 <p>
@@ -13,7 +13,7 @@ alert("The sum is "+c);
 </p>
 </details>
 
-2. Write a program that asks the user for the distance in feet and converts it to meters.
+**2. Write a program that asks the user for the distance in feet and converts it to meters.**
 
 <details><summary>Solution</summary>
 <p>
@@ -27,7 +27,7 @@ alert("The distance is meters "+meters);
 </p>
 </details>
 
-3. Write a program that asks the user to enter a year and then tells the user if this year is a leap year. See [Leap year in the Gregorian calendar](https://en.wikipedia.org/wiki/Leap_year#Gregorian_calendar)
+**3. Write a program that asks the user to enter a year and then tells the user if this year is a leap year. See [Leap year in the Gregorian calendar](https://en.wikipedia.org/wiki/Leap_year#Gregorian_calendar)**
 
 <details><summary>Solution</summary>
 <p>

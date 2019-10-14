@@ -31,6 +31,7 @@ alert("The distance is meters "+meters);
 
 <details><summary>Solution #3</summary>
 <p>
+  
 ```javascript
 let year = prompt("Enter year number");
 let is_leap;

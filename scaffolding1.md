@@ -66,6 +66,8 @@ alert("The year "+year+" is a "+(is_leap ? "leap" : "common")+" year");
 
 **Problem #4. Write a program that asks the user to enter numbers a, b, c and then calculates the roots x<sub>1</sub> and x<sub>2</sub> of the quadratic equation ax<sup>2</sup> + bx + c = 0. Use the [quadratic formula](https://en.wikipedia.org/wiki/Quadratic_formula) in your program, but also handle the cases when there are no real roots (i.e. the discriminant is less than 0), there is only one root (i.e. the discriminant is equal to zero), and the equation is linear (i.e. a = 0).**
 
+> Tip: Use [Math.sqrt()](https://www.w3schools.com/jsref/jsref_sqrt.asp)
+
 <details><summary>Solution #4</summary>
 <p>
   
@@ -84,8 +86,8 @@ if (a == 0) {
 } else {
   let d = b * b - 4 * a * c;
   if (d > 0) {
-    let x1 = (-b + sqrt(d)) / (2 * a);
-    let x2 = (-b - sqrt(d)) / (2 * a);
+    let x1 = (-b + Math.sqrt(d)) / (2 * a);
+    let x2 = (-b - Math.sqrt(d)) / (2 * a);
     alert("There are two roots: x1="+x1+"; x2="+x2);
   } else if (d == 0) {
     let x = -b / (2 * a);

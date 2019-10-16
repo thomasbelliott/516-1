@@ -100,3 +100,25 @@ if (a == 0) {
 ```
 
 </p></details>
+
+**Problem #5. Write a program that asks the user to enter their body temperature and then responds if the person has no fever, low-grade fever, intermediate-grade fever, or high-grade fever (100F-101F low grade; 102F intermediate grade; 103F-104F high grade)**
+
+<details><summary>Solution #5</summary>
+<p>
+  
+```javascript
+let t = parseInt(prompt("Enter your body temperature in F"));
+
+if (t < 100) {
+  alert("You have no fever");
+} else if (t < 102) {
+  alert("You have low-grade fever");
+} else if (t < 103) {
+  alert("You have intermediate-grade fever");
+} else {
+  alert("You have high-grade fever");
+}
+  
+```
+
+</p></details>

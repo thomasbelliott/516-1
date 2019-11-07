@@ -41,7 +41,7 @@ This paper will have three required versions:
 - 250-word proposal. This is simply the idea along with what will be done. It will be graded on
 completeness only. The instructor and one or more classmates will provide feedback on the
 proposal. If a student changes topics after the proposal stage, permission must be granted by the
-instructor. (1 point)
+instructor. (1 point) **Please upload the proposal to your GitHub repository as a plain text file named proposal.txt.**
 - Completed draft of paper. This submission is also graded on completeness only. Students will
 receive feedback from a peer. (2 points)
 - Final version of paper. This version is graded based on the evaluation criteria above. (7 points)

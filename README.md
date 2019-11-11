@@ -300,8 +300,7 @@ Develop a JavaScript program that does all of the following:
 - Displays a frequency dictionary of the types found in the text, sorted by descending frequency.
 - Calculates and displays the type/token ratio.
 
-A boilerplate file will be provided to assist you with the development of the user interface
-for this program.
+Please use this [boilerplate file](https://github.com/chukharev/516/blob/master/project_e_boilerplate.html) to assist you with the development of the user interface for this program.
 
 #### Grading (5 points total)
 
